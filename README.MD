@@ -14,6 +14,14 @@ Let's get started:
 4 - use the response object to update the page with information. 
 5 - style the page. 
 
+## ADVANCE/INTERMEDIATE
+For advance users - try to build the following filters:
+
+- Name search filter
+- group geolocation
+
+
+
 Wicked, the website is starting to take shape! 
 
 Wrapping up the technology and purpose:
@@ -26,3 +34,4 @@ Wrapping up the technology and purpose:
 
 - [https://api.jquery.com/](https://api.jquery.com/)
 - [https://github.com/codersuk/AWS-exercise-1](https://github.com/codersuk/AWS-exercise-1)
+- Json data for the XMLhttprequest [data.json](https://codersuk-test.s3-eu-west-1.amazonaws.com/data.json)
