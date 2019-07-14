@@ -25,3 +25,4 @@ Wrapping up the technology and purpose:
 ## RESOURCE
 
 - [https://api.jquery.com/](https://api.jquery.com/)
+- [https://github.com/codersuk/AWS-exercise-1](https://github.com/codersuk/AWS-exercise-1)
